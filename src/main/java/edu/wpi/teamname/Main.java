@@ -15,6 +15,10 @@ public class Main {
     System.out.println("Anthony LoPresti");
     System.out.println("Conor McDonough");
     System.out.println("Freud Oulon");
+    System.out.println("Lauren Sowerbutts");
+    System.out.println("Bryan Gass");
+    System.out.println("Justin Luce");
+    System.out.println("Emmanuel Ola");
   }
 
   public void printBranchAL() {
@@ -25,3 +29,20 @@ public class Main {
   }
 
 }
+  public void bryan_branch() {
+    System.out.println("Branch - Bryan Gass");
+  }
+  public void laurensowerbutts() {
+    System.out.println("Branch - Lauren Sowerbutts");
+  }
+
+  public void Conor_branch() {
+    System.out.println("Branch - Conor McDonough");
+  }
+
+
+
+}
+
+
+

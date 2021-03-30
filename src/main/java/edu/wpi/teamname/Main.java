@@ -17,6 +17,7 @@ public class Main {
     System.out.println("Lauren Sowerbutts");
     System.out.println("Bryan Gass");
     System.out.println("Justin Luce");
+    System.out.println("Emmanuel Ola");
   }
 
   public void printBranchAL() {

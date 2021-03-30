@@ -14,6 +14,7 @@ public class Main {
     System.out.println("Team Coach: Michael Clements");
     System.out.println("Anthony LoPresti");
     System.out.println("Conor McDonough");
+    System.out.println("Freud Oulon");
     System.out.println("Lauren Sowerbutts");
     System.out.println("Bryan Gass");
     System.out.println("Justin Luce");
@@ -24,6 +25,11 @@ public class Main {
   public void printBranchAL() {
     System.out.println("Branch - Anthony LoPresti");
   }
+  public void printBranchFO() {
+    System.out.println("Branch - Freud Oulon");
+  }
+
+
   public void bryan_branch() {
     System.out.println("Branch - Bryan Gass");
   }

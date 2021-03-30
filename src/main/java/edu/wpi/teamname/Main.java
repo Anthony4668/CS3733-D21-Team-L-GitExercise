@@ -52,4 +52,8 @@ public class Main {
     System.out.println("Branch - Xianhan Jia");
   }
 
+  public void frank_branch() {
+    System.out.println("Branch - Frank McShan");
+  }
+
 }

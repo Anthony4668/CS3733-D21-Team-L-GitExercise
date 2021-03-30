@@ -44,6 +44,6 @@ public class Main {
   }
 
   public void justin_luce() {
-    System.out.println("Branch - Justin Ljce");
+    System.out.println("Branch - Justin Luce");
   }
 }

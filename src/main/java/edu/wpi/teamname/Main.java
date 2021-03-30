@@ -30,6 +30,10 @@ public class Main {
     System.out.println("Branch - Lauren Sowerbutts");
   }
 
+  public void Conor_branch() {
+    System.out.println("Branch - Conor McDonough");
+  }
+
 
 
 }

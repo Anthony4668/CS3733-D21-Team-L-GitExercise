@@ -20,5 +20,8 @@ public class Main {
   public void printBranchAL() {
     System.out.println("Branch - Anthony LoPresti");
   }
+  public void printBranchFO() {
+    System.out.println("Branch - Freud Oulon");
+  }
 
 }

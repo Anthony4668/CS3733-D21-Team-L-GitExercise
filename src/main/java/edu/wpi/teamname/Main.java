@@ -19,4 +19,7 @@ public class Main {
   public void printBranchAL() {
     System.out.println("Branch - Anthony LoPresti");
   }
+  public void printBranchCM() {
+    System.out.println("Branch - Conor McDonough");
+  }
 }

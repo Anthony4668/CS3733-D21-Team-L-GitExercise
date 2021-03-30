@@ -46,4 +46,9 @@ public class Main {
   public void justin_luce() {
     System.out.println("Branch - Justin Luce");
   }
+
+  public void Xianhan_branch() {
+    System.out.println("Branch - Xianhan Jia");
+  }
+
 }
